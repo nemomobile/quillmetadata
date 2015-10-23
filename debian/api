@@ -1,8 +1,0 @@
-# subsystem: Image Editor
-# src-pkg: libquillmetadata
-interface: Image Metadata
-type: library
-libs-pkg: libquillmetadata1
-dev-pkg: libquillmetadata-dev
-state: stable
-scope: Platform

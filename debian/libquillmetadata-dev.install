@@ -1,4 +1,0 @@
-usr/include/
-usr/lib/libquillmetadata*.so
-usr/lib/pkgconfig
-usr/share/qt4/mkspecs/features/quillmetadata.prf
